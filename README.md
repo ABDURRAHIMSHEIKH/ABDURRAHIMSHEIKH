@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://i.ibb.co/FWTxkrH/ABDURRAHIMSHEIKH-1.gif" alt="">
+<img align="center" alt="Coding" width="800" src="https://i.ibb.co/FWTxkrH/ABDURRAHIMSHEIKH-1.gif" alt="">
 
 
 <h1 align="center">Hi 👋, I'm Abdur Rahim Sheikh</h1>
